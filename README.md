@@ -14,4 +14,3 @@ The primary audience for this visualisation includes a wide range of stakeholder
 •	Public health officials and regulators interested in pollutant risk detection and air quality monitoring.
 •	Academic researchers and data scientists looking for structured data insights and visual tools to support environmental modeling and climate adaptation studies.
 Ultimately, this dashboard transforms complex multi-dimensional datasets into a cohesive and interactive narrative. By doing so, it empowers informed decision-making, strengthens early warning capabilities, and fosters cross-sector collaboration for climate resilience and ecological recovery.
-<img width="468" height="567" alt="image" src="https://github.com/user-attachments/assets/44dad39a-29c9-4c64-b6cb-573763935c79" />
